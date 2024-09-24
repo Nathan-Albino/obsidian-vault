@@ -1,5 +1,5 @@
 ---
-id: 1727156009-worklog
+id: worklog
 aliases:
   - worklog
 tags:
