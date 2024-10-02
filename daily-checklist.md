@@ -15,14 +15,15 @@ total time: ~14 hrs + 2 hrs of misc time (eating, showering, chilling)
 - [ ] get credit report
 
 - [ ] stretch + meditate (30 mins)
-- [ ] anki (30 mins)
-- [ ] leetcode (1 hr 30 mins)
+- [x] anki (30 mins)
+- [x] leetcode (1 hr 30 mins)
 - [ ] coding (FSO) (2hr)
-- [ ] gym (1-2 hrs)
+- [x] gym (1-2 hrs)
 - [ ] android app (2 hrs)
-- [ ] explire side hustles (digital planners, clipart, pattersn, cards, guides, doneforyou DFY content on Etsy/stanstore) (2 hrs)
+- [ ] explore side hustles (digital planners, clipart, patterns, cards, guides, doneforyou DFY content on Etsy/stanstore) (2 hrs)
   - Design 3d minis using blender, sell the STL file on myminifactory
   - Digital marketing
+  - explore roblux anime vanguard, to sell accounts and eventually trade
 - [ ] learn networking for IT (1.5 hrs)
   - Certs: CompTIA A+, Net+, Sec+ in that order
   - TLDR: just study professor Messer on YouTube and buy a 10 dollar practice
